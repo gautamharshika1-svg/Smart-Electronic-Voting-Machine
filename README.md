@@ -16,7 +16,7 @@ This project simulates the basic functionality of an electronic voting system us
 
 🎥 Simulation Video
 
-images/simulation_EVM.mp4
+[▶ Watch / Download Simulation](images/simulation_EVM.mp4)
 
 ---
 
