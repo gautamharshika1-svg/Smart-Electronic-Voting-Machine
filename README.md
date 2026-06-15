@@ -8,7 +8,7 @@ This project simulates the basic functionality of an electronic voting system us
 
 ## Project Preview
 
-![Circuit Diagram](images/EVE_circuit.png)
+![Circuit Diagram](images/EVM_circuit.png)
 
 ---
 
